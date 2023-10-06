@@ -2,13 +2,13 @@
 AI_Chatbot
 
 MERN stack Project for a AI Chatbot App that uses ChatGPT API. 
-This project provides 5 functionalities below which are derived from ChatGPT APIs
+This project provides 5 functionalities as listed below 
 
-1. Text Summary
-2. Paragraph Generation
-3. AI-Chatbot
-4. Text to JS
-5. Scifi Image Generator
+1. Text Summary: Summarizes a text given an input text
+2. Paragraph Generation: Generates a paragraph given a text input 
+3. AI-Chatbot: Chatbot answers based on input text
+4. Text to JS: Generates Javascript Code based on input text
+5. Scifi Image Generator: Sci-fi themed image generator given text input 
 
 How to Run:
 
