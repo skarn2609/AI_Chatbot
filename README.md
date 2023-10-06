@@ -17,10 +17,11 @@ How to Run:
 3. npm install
 4. npm run dev
 
-   ![scifi](https://github.com/skarn2609/AI_Chatbot/assets/136243090/9bbca55d-7023-4528-a053-0f8bc4a7e276)
-![paragraph_generator](https://github.com/skarn2609/AI_Chatbot/assets/136243090/20ea27cf-6740-48d3-8afa-68e0d436cc2a)
-![JS Converter](https://github.com/skarn2609/AI_Chatbot/assets/136243090/f56e0c28-a94d-45bf-923a-b8ac9af34e95)
-![Chatbot](https://github.com/skarn2609/AI_Chatbot/assets/136243090/8cab3220-18a1-40a4-9c96-f5fedbca9555)
-![Capture2](https://github.com/skarn2609/AI_Chatbot/assets/136243090/19674462-aabf-455f-baad-39a6644842ca)
-![Capture1](https://github.com/skarn2609/AI_Chatbot/assets/136243090/1b2aeec9-2abe-47b1-a42b-144dc9694884)
-![Text_Summary](https://github.com/skarn2609/AI_Chatbot/assets/136243090/4b8b04ca-069d-42a1-ac0f-4a8f0798dfb8)
+
+![Capture1](https://github.com/skarn2609/AI_Chatbot/assets/136243090/b8064bed-061b-4930-a966-ced945dc8377)
+![Chatbot](https://github.com/skarn2609/AI_Chatbot/assets/136243090/77ba3bfc-661f-474a-ac45-9b48f819f3a3)
+![Capture2](https://github.com/skarn2609/AI_Chatbot/assets/136243090/dd5fe640-c5c9-465f-b987-6d9212ad44c7)
+![scifi](https://github.com/skarn2609/AI_Chatbot/assets/136243090/a72343ca-d5f5-4408-a467-12f358a80dd2)
+![paragraph_generator](https://github.com/skarn2609/AI_Chatbot/assets/136243090/fb6ab141-6a7f-4518-a21c-fe626dec0706)
+![JS Converter](https://github.com/skarn2609/AI_Chatbot/assets/136243090/c3230529-cd9e-40cf-9307-e9ffd9ce3ded)
+![Text_Summary](https://github.com/skarn2609/AI_Chatbot/assets/136243090/39fad6c3-9660-4378-b5d1-a8bffecd509e)
